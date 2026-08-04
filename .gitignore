@@ -1,0 +1,9 @@
+keys/
+context/
+
+# Сборки. В репозитории только исходники; .crx собирается из extension/
+# командой из README.
+*.crx
+*.zip
+update.xml
+_pack/
